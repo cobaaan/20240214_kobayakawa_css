@@ -1,0 +1,45 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+.header-nav-content {
+    display: flex;
+    padding-left: 100px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.header-nav-content-text {
+    padding-left: 30px;
+    color: #000080;
+}
+
+.header-text {
+    font-size: 36px;
+    color: #000080;
+}
+
+.main-text {
+    font-size: 60px;
+    font-weight: lighter;
+    margin-top: -150px;
+}
+
+.box {
+    width: 70%;
+    height: 200px;
+    background: #000080;
+}
+
+.main-img {
+    width: 50%;
+}
+
+.box-img {
+    text-align: right;
+    margin-top: 100px;
+}
